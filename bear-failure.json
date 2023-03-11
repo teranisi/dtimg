@@ -1,0 +1,1 @@
+[{"prob":0.81946003,"name":"sheep","bounding-box":{"top":313,"left":230,"bottom":509,"right":498}},{"prob":0.33661622,"name":"cow","bounding-box":{"top":299,"left":250,"bottom":523,"right":516}},{"prob":0.936718,"name":"dog","bounding-box":{"top":94,"left":70,"bottom":421,"right":218}}]
