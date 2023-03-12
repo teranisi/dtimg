@@ -70,9 +70,7 @@ func main() {
 	dc.DrawImage(im, 0, 0)
 
 	// font
-	if err := dc.LoadFontFace("/System/Library/Fonts/Monaco.ttf", 18); err != nil {
-		panic(err)
-	}
+	dc.LoadFontFace("/System/Library/Fonts/Monaco.ttf", 18)
 	for _, e := range det {
 
 		dc.SetRGBA(1.0, 0, 0, 1.0)
